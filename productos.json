@@ -1,0 +1,10 @@
+{
+    "productos": [ 
+        {
+            "id": 1,
+            "nombre": "I'm a product",
+            "precio": 60.00,
+            "imagen": "https://static.wixstatic.com/media/ea71bb_d8880439273a4b108d88e069eeaf6ae1~mv2_d_3664_4866_s_4_2.jpg/v1/fill/w_386,h_515,al_c,q_80,usm_0.66_1.00_0.01/ea71bb_d8880439273a4b108d88e069eeaf6ae1~mv2_d_3664_4866_s_4_2.webp"
+        }
+    ]
+}   
